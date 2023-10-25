@@ -2,6 +2,7 @@
 tags:
   - psychology
 ---
+
 Dreams can have a range of forms as our minds create stories and images while we [[Sleep]]. Most people do not remember their dreams but we have an average of 3-6 times per night with an average duration of 5-20 minutes.
 
 There are a number of theories as to why people dream, most research suggests that dreams are directly linked to memory formation. The [[Brain]] consolidates [[learning]] and memory tasks, storing memories and deriving associations.
