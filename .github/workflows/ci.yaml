@@ -31,21 +31,22 @@ jobs:
 
   format:
     runs-on: ubuntu-latest
+    name: Format Files
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
-          fetch-depth: 0
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
-      - run: npm ci
-      - run: npm run format
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Prettier
+        run: npx prettier --write **/*.{js,md}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
         with:
-          commit_message: Apply formatting changes
-          branch: ${{ github.head_ref }}
+          commit_message: "style: format files"
+
   build:
     needs: format
     runs-on: ubuntu-latest
