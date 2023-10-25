@@ -1,7 +1,6 @@
 tags:: #religion
 
-
-A non-theistic religious organisation that is primarily based in United States. Co-founded by Lucien Greaves, the organisation uses Satanic imagery to promote [[egalitarianism]], social justice, and the separation of the church and state. 
+A non-theistic religious organisation that is primarily based in United States. Co-founded by Lucien Greaves, the organisation uses Satanic imagery to promote [[egalitarianism]], social justice, and the separation of the church and state.
 
 It's mission: "to encourage benevolence and empathy [among all people]"
 
@@ -10,7 +9,9 @@ The Satanic Temple has utilised satire, theatrical ploys, humour, and legal act
 The Satanic Temple does not believe in a supernatural [Satan](https://en.wikipedia.org/wiki/Satan "Satan"); instead it employs the [literary Satan](https://en.wikipedia.org/wiki/Devil_in_the_arts_and_popular_culture#Literature "Devil in the arts and popular culture") as a metaphor to promote pragmatic [skepticism](https://en.wikipedia.org/wiki/Skepticism "Skepticism"), rational reciprocity, personal autonomy, and curiosity. Satan is thus used as a symbol representing "the eternal rebel" against arbitrary authority and social norms.
 
 ## Tenets
+
 The Satanic Temple has seven fundamental tenets:
+
 1. One should strive to act with compassion and empathy toward all creatures in accordance with reason
 2. The struggle for justice is an ongoing and necessary pursuit that should prevail over laws and institutions
 3. One's body is inviolable, subject to one's own will alone

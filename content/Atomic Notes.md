@@ -1,4 +1,4 @@
-tags:: 
+tags::
 see::
 comes from::
 opposite to::

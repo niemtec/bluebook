@@ -2,10 +2,10 @@
 - SOLID is a collection of principles meant as a guide to allow developers to make software designs more understandable, flexible, and maintainable
 - Striving for these principles is good, but always try to be pragmatic and don't take everything as dogma. Following them mindlessly can cause more harm than good.
 
-***
+---
+
 tags:: #software-development/design-principles  
 comes from::
 opposite to::
 leads to:: [[Single Responsibility Principle]], [[Open Closed Principle]], [[Liskov Substitution Principle]], [[Interface Segregation Principle]], [[Dependency Inversion Principle]]
 see also::
-

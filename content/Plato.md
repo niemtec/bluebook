@@ -1,2 +1,2 @@
-tags:: #philosophy/philosopher 
+tags:: #philosophy/philosopher
 see:: [[Body and Soul]]

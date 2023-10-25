@@ -1,4 +1,4 @@
-tags:: #software-development 
+tags:: #software-development
 
 1. Runs all the tests
 2. Contains no duplication

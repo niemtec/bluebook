@@ -1,4 +1,4 @@
-The fondness and appreciation of the other. It is not just friendship, but also loyalties to family, job or discipline. 
+The fondness and appreciation of the other. It is not just friendship, but also loyalties to family, job or discipline.
 
 Philia for another may be motivated, as [[Aristotle]] explains in the Nicomachean Ethics, Book VIII, for the agent’s sake or for the other’s own sake.
 

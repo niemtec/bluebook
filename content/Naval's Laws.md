@@ -11,7 +11,7 @@
 - Total [[honesty]] at all times. It's almost always possible to be honest and positive
 - Praise specifically, criticise generally (Warren Buffett)
 - Truth is that which has predictive power
-- Watch every thought (always ask "*Why am I having this thought?*")
+- Watch every thought (always ask "_Why am I having this thought?_")
 - All greatness comes from suffering
 - [[Love]] is given, not received
 - Enlightenment is the space between your thoughts (Eckhart Tolle)

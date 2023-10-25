@@ -38,4 +38,4 @@ Help people anyway.
 
 Give the world the best you have anyway.
 
-(*Kent M. Keith, The silent Revolution: Dynamic Leadership in the Student Council*)
+(_Kent M. Keith, The silent Revolution: Dynamic Leadership in the Student Council_)

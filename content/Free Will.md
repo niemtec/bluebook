@@ -1,5 +1,5 @@
 > "It turned out that our choices of everything from food to mates result not from some mysterious free will, but rather from billions of neurons calculating probabilities within a split second. Vaunted ‘human intuition’ is in reality ‘pattern recognition’."
-> (*[[21 Lessons for the 21st Century]]*)
+> (_[[21 Lessons for the 21st Century]]_)
 
 See: [[Intuition is Pattern Recognition]]
 

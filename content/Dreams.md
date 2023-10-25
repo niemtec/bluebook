@@ -1,4 +1,4 @@
-tags:: #psychology 
+tags:: #psychology
 
 Dreams can have a range of forms as our minds create stories and images while we [[Sleep]]. Most people do not remember their dreams but we have an average of 3-6 times per night with an average duration of 5-20 minutes.
 
@@ -17,6 +17,6 @@ Dreams introduce a state of [[Temporal Distortion]] - a type of [[Time]] dilatio
 While your conscious mapping of [[Time]] is lost during [[Sleep]], at a non-conscious level, [[Time]] continues to be cataloged by the [[Brain]] with incredible [[precision]].
 
 > "This dramatic deceleration of neural time may be the reason we believe our dream life lasts far longer than our alarm clocks otherwise assert."
-> (*Why We [[Sleep]]: The New Science of [[Sleep]] and Dreams*)
+> (_Why We [[Sleep]]: The New Science of [[Sleep]] and Dreams_)
 
-#biology 
+#biology

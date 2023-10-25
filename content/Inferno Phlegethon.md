@@ -4,10 +4,10 @@
 - The depth at which each sinner must stand in the river is determined by the level of violence they caused in life, centaurs patrol the circle, firing arrows at those who try to rise above their allotted level in the river
 - [[Dante]] and [[Vergil]] cross [[Phlegethon]] with help from [[Nessus]]
 
-***
-tags:: #mythology/greek 
+---
+
+tags:: #mythology/greek
 comes from:: [[Phlegethon]], [[Dante]]
 opposite to::
 leads to::
 see also:: [[Centaurs]], [[Virgil]], [[Nessus]]
-

@@ -3,12 +3,12 @@
 - If you had never seen a real object ever before, you would believe that the shadows of the objects were "real"
 
 > [!note]
-The Shadows represent the perceptions of those who believe empirical evidence ensures knowledge. If you believe that what you see should be taken as truth, then you are merely seeing a shadow of the truth. In [[Plato]]’s opinion, you are a ‘pleb’ if you believe this (their insult to those who are not Philosophers)!
+> The Shadows represent the perceptions of those who believe empirical evidence ensures knowledge. If you believe that what you see should be taken as truth, then you are merely seeing a shadow of the truth. In [[Plato]]’s opinion, you are a ‘pleb’ if you believe this (their insult to those who are not Philosophers)!
 
-***
-tags:: #philosophy 
+---
+
+tags:: #philosophy
 comes from:: [[Allegory of the Cave]], [[Plato]], [[The Republic]]
 opposite to:: [[A Posteriori]]
 leads to:: [[The Cave]], [[The Game]], [[The Escape]], [[The Return]]
 similar to:: [[A Priori]]
-

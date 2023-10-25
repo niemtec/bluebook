@@ -1,5 +1,4 @@
-
-tags:: #philosophy/philosopher 
+tags:: #philosophy/philosopher
 
 “He gave proof of his learning not by mere words or knowledge of philosophical doctrines but by his blameless character and temperate way of life.”
 

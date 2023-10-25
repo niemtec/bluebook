@@ -1,4 +1,4 @@
-tags:: #programming/definition 
+tags:: #programming/definition
 
 A function with **two** arguments. Harder to understand than a [[Monadic Functions]].
 

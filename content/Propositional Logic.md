@@ -22,11 +22,11 @@ Statements can be true or false (but not both nor neither). However, the truthfu
 
 Logical connectives are used to combine [[atomic]] statements (propositions) into compound (more complex) statements. The five common connectives include:
 
--   `∧` = `AND`
--   `∨` = `OR`
--   `→` = `IF THEN`
--   `↔` = `IF AND ONLY IF`
--   `¬` = `NOT`
+- `∧` = `AND`
+- `∨` = `OR`
+- `→` = `IF THEN`
+- `↔` = `IF AND ONLY IF`
+- `¬` = `NOT`
 
 #### AND
 
@@ -34,7 +34,7 @@ A **conjunction** ([[dyadic]] operator) which allows for compound statements suc
 
 #### OR
 
-A **dysjunction** ([[dyadic]] operator) which allows for compound statements such as:  `p OR q` is the same as `p ∨ q`.
+A **dysjunction** ([[dyadic]] operator) which allows for compound statements such as: `p OR q` is the same as `p ∨ q`.
 
 #### NOT
 

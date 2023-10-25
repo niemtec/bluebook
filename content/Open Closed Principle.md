@@ -6,10 +6,10 @@
 - If a class is already developed, tested, reviewed, and included in some framework or otherwise used in an app, trying to mess with its code is risky. It should be **closed** for modification.
 - A child class shouldn’t be responsible for the parent’s issues.
 
-***
+---
+
 tags:: #software-development/design-principles  
 comes from:: [[SOLID]]
 opposite to::
 leads to:: [[Single Responsibility Principle]], [[Open Closed Principle]], [[Liskov Substitution Principle]], [[Interface Segregation Principle]], [[Dependency Inversion Principle]]
 see also::
-

@@ -4,5 +4,4 @@ The [[Mind]] goes quiet during the moments of greatest pleasure. We seek the mom
 
 At some point the [[Mind]] became an uncontrollable master rather than a servant.
 
-Our [[Mind]] evolved to be paranoid, fearful and angry. 
-
+Our [[Mind]] evolved to be paranoid, fearful and angry.

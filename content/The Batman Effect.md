@@ -1,5 +1,4 @@
-tags:: #psychology 
-
+tags:: #psychology
 
 - Thinking of yourself as a separate entity can reduce anxiety and increase confidence and determination
 - Research suggests that there might be real psychological benefits to the strategy of developing a fictional persona as a way of coping with stressful situations

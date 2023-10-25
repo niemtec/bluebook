@@ -5,6 +5,7 @@ He challenges many of the founding assumptions of today’s left-liberal academy
 One feature of Žižek’s work is its singular philosophical and political reconsideration of [German [[Idealism]]](https://iep.utm.edu/germidea/) ([[Kant]], [[Schelling]]and [[Hegel]])
 
 Slavoj Žižek: Do Christians really believe in God? The paradox of belief
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpHhPdYYo6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #timeline

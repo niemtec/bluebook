@@ -2,4 +2,4 @@
 
 - Sometimes what you initially perceive as mistakes are more wise and deliberate than you think
 
-theme:: #leadership 
+theme:: #leadership

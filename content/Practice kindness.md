@@ -3,4 +3,4 @@
 - Sincere kindness is “invincible” and more powerful than any negative transgression
 - It takes a strong person to set aside [[ego]] and base emotions and behave with compassion
 
-theme:: #leadership 
+theme:: #leadership

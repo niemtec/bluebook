@@ -6,15 +6,15 @@
 > You need to turn off many of the defenses you use each day to protect your [[ego]], tune out any project pressures you may be under, and get yourself comfortable. Above all, remember the first rule of debugging: **Don't Panic.**
 
 - When trying to solve any problem, you need to gather all the relevant data. You first need to be accurate in your observations.
-- Once *you* think you know what is going on, it's time to find out what the *program* thinks is going on.
+- Once _you_ think you know what is going on, it's time to find out what the _program_ thinks is going on.
 
 > [!tip]
 > If you “changed only one thing’’ and the system stopped working, that one thing was likely to be responsible, directly or indirectly, no matter how farfetched it seems.
 
-***
-tags:: #software-development 
+---
+
+tags:: #software-development
 comes from:: [[The Pragmatic Programmer]]
 opposite to::
 leads to::
 see also::
-

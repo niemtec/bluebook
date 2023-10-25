@@ -1,6 +1,4 @@
+---
 
-
-***
-theme:: 
+theme::
 see also::
-

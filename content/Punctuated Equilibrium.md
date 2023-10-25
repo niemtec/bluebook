@@ -9,5 +9,6 @@ Complex systems exist in punctuated [[equilibrium]], repeatedly [[evolution|evol
 **Phase 4, Collapse**: a [[Random]] shock, or new innovation demolishes one of the [[Keystone Species]], causing [[cascade failure]] within the highly structured network. The ecosystem collapses into a [[Random]] structure.
 
 ---
+
 - [Large extinctions in an evolutionary model: The role of innovation and [[Keystone Species]]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC122318/)
 - [A model for the emergence of cooperation, interdependence, and structure in evolving networks](https://www.pnas.org/content/98/2/543)

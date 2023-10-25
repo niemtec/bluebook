@@ -1,5 +1,4 @@
-
-tags:: #biology 
+tags:: #biology
 
 ![](https://www.thescienceofpsychotherapy.com/wp-content/uploads/2015/10/Prefrontal_cortex_left_-_lateral_view.png)
 

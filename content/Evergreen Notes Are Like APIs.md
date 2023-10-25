@@ -2,5 +2,5 @@ When [[evergreen notes]] are factored and titled effectively, those titles becom
 
 Effective note “API Design” techniques include: [[Separation of Concerns]] (notes should be [[atomic]])
 
--   [[sharp-titles]] (prefer note titles with complete phrases)
--   Positive Framings (prefer positive note titles to promote [[Systematic Theory]]
+- [[sharp-titles]] (prefer note titles with complete phrases)
+- Positive Framings (prefer positive note titles to promote [[Systematic Theory]]

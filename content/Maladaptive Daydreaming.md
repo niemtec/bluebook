@@ -3,13 +3,14 @@
 - It can cause people to lose themselves in extremely vivid and detailed daydreams (this kind of daydreaming might be compulsive)
 
 ## Symptoms
+
 - Engaging in extremely vivid, detailed, and elaborate periods of daydreaming which can last for a long time (people with this ability)
 - Disconnection from what's happening around the person (similar to dissociation)
 
-***
-tags:: #psychology 
+---
+
+tags:: #psychology
 comes from:: [[ADHD]], [[Anxiety]]
 opposite to::
 leads to::
 see also::
-

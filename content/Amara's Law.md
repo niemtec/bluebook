@@ -2,5 +2,4 @@
 
 Why? According to [[clarks three laws]], failure of nerve and failure of imagination.
 
-   
 See Also: [[clarks three laws]], [[Three Laws of Robotics]], [[greys law]], [[Shermers Last Law]]

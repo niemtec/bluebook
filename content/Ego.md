@@ -3,8 +3,9 @@
 - Originally, Freud used the word ego to mean the sense of self but later expanded it to include psychic functions such as judgment, tolerance, reality testing, control, planning, defence, synthesis of information, intellectual functioning, and memory. The ego is the organising principle upon which our thoughts and interpretations of the world around us are based
 - The ego employs several self-defence mechanisms to protect us from harm through repression or sublimation
 
-***
-tags:: #psychology 
+---
+
+tags:: #psychology
 comes from:: [[Sigmund Freud]]
 opposite to::
 leads to:: [[Reality Principle]]

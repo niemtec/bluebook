@@ -5,16 +5,17 @@
 - It has no organisation and no collective will: it is concerned only with the satisfaction of drives in accordance with the pleasure principle
 - Freud described it as "the greatest reservoir of libido", usually conceived as sexual in nature, the life instincts that are constantly seeking a renewal of life
 
-***
-tags:: #psychology 
+---
+
+tags:: #psychology
 comes from:: [[Sigmund Freud]]
 opposite to:: [[Super-Ego]], [[Ego]]
 leads to:: [[Pleasure Principle]]. [[Libido]]
 similar to::
 
-tags:: #psychology 
+tags:: #psychology
 see:: [[Sigmund Freud]]
 
 - The seat of the unconscious mind controls the basic biological impulses.
-- Breathing and Hunger 
+- Breathing and Hunger
 - Potentially socially unacceptable things like the desire for sex

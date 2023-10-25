@@ -4,6 +4,7 @@
 - The condition seems to happen most often in people with [[ADHD]]
 
 ## Symptoms
+
 - Easily embarrassed and self-conscious
 - Signs of low self-esteem and trouble believing in themselves
 - Difficulty containing emotions when feeling rejected (reacting with sudden shows of anger or rage or bursting into tears)
@@ -12,11 +13,10 @@
 - They avoid starting projects, tasks or goals where there's a chance of failure
 - They compensate for their fear of failure or rejection by going all-out or striving for perfectionism (however they often experience intense anxiety and may not easily make self-care or downtime a priority)
 
+---
 
-***
-tags:: #psychology 
+tags:: #psychology
 comes from:: [[ADHD]]
 opposite to:: [[Borderline Personality Disorder]], [[bipolar disorder]]
 leads to::
 see also:: [[Emotional Dysregulation]], [[Rejection Sensitivity]]
-

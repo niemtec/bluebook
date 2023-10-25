@@ -1,4 +1,5 @@
 ## Effects on [[Brain]]
+
 An estimated 15-25% of patients with severe COVID-19 may experience neurological symptoms such as headaches, confusion, delirium, impaired [[consciousness]], seizures, and strokes.
 
 Systemic effects of the infection, such as inflammation, low oxygen levels, unusually “sticky” blood, and cardiac arrest, may play a role in [[EEG]] abnormalities that extend beyond the [[frontal lobe]]s.

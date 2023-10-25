@@ -5,10 +5,10 @@
 - It is an internalised mechanism that operates to confine the [[Ego]] to socially acceptable behaviour, whereas the [[Id]] merely seeks instant self-gratification
 - The super-ego and the [[Ego]] are the product of the state of helplessness of the child and the [[Oedipus Complex]]
 
-***
-tags:: #psychology 
+---
+
+tags:: #psychology
 comes from:: [[Sigmund Freud]]
 opposite to:: [[Id]], [[Ego]]
 leads to:: [[Ego]], [[Oedipus Complex]]
 similar to:: [[Conscience]]
-

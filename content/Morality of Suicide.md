@@ -1,5 +1,4 @@
-
-tags:: #philosophy 
+tags:: #philosophy
 
 The foundation of all valuing — for a person who chooses to live — is the value of one’s own life. But one’s own life can only be a value if one chooses it. Since all other values, including moral values, depend on the value of one’s life, there is no basis for any moral requirement to value one’s life. The value of life — and with it all values and all [[morality]] — rest on the choice to live.
 

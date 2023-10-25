@@ -3,23 +3,24 @@ A **typeface** is a style which comprises of a myriad of characters of varying s
 
 There are three basic kinds of typeface: serif, sans-serif, and decorative:
 ![[Pasted image 20221015133624.png]]
+
 ## Serif
 
 ^ae6b82
 
-Serif typefaces are identified by extra marks at the end of letters known as serifs. 
+Serif typefaces are identified by extra marks at the end of letters known as serifs.
 
-Serifs originated from the first official Greek writings on stone and in [Latin alphabet](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") with [inscriptional lettering](https://en.wikipedia.org/wiki/Roman_square_capitals "Roman square capitals")—words carved into stone in Roman [antiquity](https://en.wikipedia.org/wiki/Classical_antiquity "Classical antiquity"). 
+Serifs originated from the first official Greek writings on stone and in [Latin alphabet](https://en.wikipedia.org/wiki/Latin_alphabet "Latin alphabet") with [inscriptional lettering](https://en.wikipedia.org/wiki/Roman_square_capitals "Roman square capitals")—words carved into stone in Roman [antiquity](https://en.wikipedia.org/wiki/Classical_antiquity "Classical antiquity").
 
-The explanation proposed by Father [Edward Catich](https://en.wikipedia.org/wiki/Edward_Catich "Edward Catich") in his 1968 book _The Origin of the Serif_ is now broadly but not universally accepted: the Roman letter outlines were first painted onto stone, and the stone carvers followed the brush marks, which flared at stroke ends and corners, creating serifs. Another theory is that serifs were devised to neaten the ends of lines as they were chiselled into stone.
+The explanation proposed by Father [Edward Catich](https://en.wikipedia.org/wiki/Edward_Catich "Edward Catich") in his 1968 book *The Origin of the Serif* is now broadly but not universally accepted: the Roman letter outlines were first painted onto stone, and the stone carvers followed the brush marks, which flared at stroke ends and corners, creating serifs. Another theory is that serifs were devised to neaten the ends of lines as they were chiselled into stone.
 
 ## Sans-serif
 
 ^fe7c71
 
-An opposite of a serif typeface, they do not contain extending features at the end of strokes. 
+An opposite of a serif typeface, they do not contain extending features at the end of strokes.
 
-Sans-serif typefaces have become the most prevalent for display of text on computer screens. On lower-resolution digital displays, fine details like serifs may disappear or appear too large. The term comes from the French word _sans_, meaning "without" and "serif" of uncertain origin, possibly from the Dutch word _schreef_ meaning "line" or pen-stroke.
+Sans-serif typefaces have become the most prevalent for display of text on computer screens. On lower-resolution digital displays, fine details like serifs may disappear or appear too large. The term comes from the French word *sans*, meaning "without" and "serif" of uncertain origin, possibly from the Dutch word *schreef* meaning "line" or pen-stroke.
 
 ## Decorative
 
