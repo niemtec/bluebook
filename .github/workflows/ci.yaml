@@ -15,20 +15,6 @@ on:
       - main
 
 jobs:
-  # format:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v3
-  #       with:
-  #         fetch-depth: 0
-  #     - uses: actions/setup-node@v3
-  #       with:
-  #         node-version: 18.14
-  #     - uses: creyD/prettier_action@v4.3
-  #       with:
-  #         prettier_options: --write **/*.{js,md}
-  #         same_commit: true
-
   format:
     runs-on: ubuntu-latest
     name: Format Files
