@@ -49,6 +49,7 @@ jobs:
 
   build:
     needs: format
+    name: Build and Verify Content
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -81,6 +82,7 @@ jobs:
 
   deploy:
     needs: build
+    name: Deploy to GitHub Pages
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
