@@ -41,7 +41,7 @@ See: [[The Boyscout Rule]]/[[Beck's Rules of Simple Code]]
 - You should use **intention-revealing names** such as `int daysSinceCreation`, the name should answer all the big questions. It should tell you why it exists, what it does, and how it is used. (If a name requires a comment, then the name does not reveal its intent)
 
 * You should \*_avoid disinformation, that is to say leaving false clues which obscure the meaning of your code, even if an abbreviation looks good it might be disinformative.
-     - Some names can also offer false clues, for example `accountList` shouldn’t be called that __unless_\* is is actually a `List`.
+     - Some names can also offer false clues, for example `accountList` shouldn’t be called that \_\_unless_\* is is actually a `List`.
      - The word “list” has meaning of its own and implies a certain structure and if the container holding the accounts is not actually a list, it may lead to false conclusions.
 * You must **make meaningful distinctions** between entities so that the programmer knows which one to use, avoid using meaningless words like “info” or “data”.
 
@@ -49,7 +49,7 @@ See: [[The Boyscout Rule]]/[[Beck's Rules of Simple Code]]
 
 * Use **searchable names** meaning that if a variable or constant might be used in multiple places in a body of code, it should have a search-friendly name that is easily distinguishable from the rest (rather than ambiguous single-letter variable names).
 * **Classes and objects should have a noun name\*** not a verb-based name
-* \*_Methods should have a verb name since they are used to __do_\* things with. Accessors, mutators and predicates should be named for their values and prefixed with `get`, `set`, and `is`.
+* \*_Methods should have a verb name since they are used to \_\_do_\* things with. Accessors, mutators and predicates should be named for their values and prefixed with `get`, `set`, and `is`.
 * Pick \***\*one word for one abstract concept\*\*** and stick with it, it can be confusing to have `fetch`, `retrieve` and `get` as equivalent methods of different classes since they all imply the same action.
      - A consistent lexicon is a great boon to the programmers who must use your code.
 

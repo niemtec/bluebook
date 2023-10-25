@@ -7,9 +7,7 @@
 ## Links to ADHD
 
 - Trauma and ADHD can both cause similar symptoms (though it doesn't lead to ADHD), though trauma symptoms go away over time and with healing
--
-
----
+- ***
 
 tags:: #psychology/mental-health
 comes from:: [[ADHD]]

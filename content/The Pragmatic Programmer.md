@@ -28,7 +28,7 @@ In a healthy environment based in trust you can safely speak your mind, present 
 
 You make a commitment to ensure that something is done right, but you don’t necessarily have direct control over every aspect of it. Apart from doing your own personal best, you must understand the situation and analyse the risks that are beyond your control.
 
-You have the right ******\*\*\*\*******not******\*\*\*\******* to take responsibility for impossible situations, or one where risks are too great, or ethical implications too sketchy. You’ll have to make a call based on your own values and judgement.
+You have the right **\*\***\*\*\*\***\*\***not**\*\***\*\*\*\***\*\*** to take responsibility for impossible situations, or one where risks are too great, or ethical implications too sketchy. You’ll have to make a call based on your own values and judgement.
 
 When you **do** accept responsibility for an outcome, you should expect to be held accountable for it. When you make a mistake (as we all do) admit it honestly and try to offer options.
 
