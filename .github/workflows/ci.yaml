@@ -1,41 +1,45 @@
-name: Build and Test
+name: Deploy notes to GitHub Pages
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 on:
   push:
     branches:
       - main
-    paths:
-      - content/**
 
 jobs:
-  build:
+  setup:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 18.14
 
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Prettify code
-        uses: creyD/prettier_action@v4.3
+  format:
+    runs-on: ubuntu-latest
+    needs: setup
+    steps:
+      - uses: creyD/prettier_action@v4.3
         with:
           prettier_options: --write **/*.md
+          same_commit: true
 
-      - run: npm ci
+  build:
+    runs-on: ubuntu-latest
+    needs: format
+    steps:
+      - name: Install Dependencies
+        run: npm ci
 
       - name: Check types and style
         run: npm run check
@@ -45,3 +49,22 @@ jobs:
 
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo
+
+      - name: Build Quartz
+        run: npx quartz build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
