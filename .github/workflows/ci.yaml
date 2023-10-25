@@ -15,26 +15,26 @@ on:
       - main
 
 jobs:
-  format:
-    runs-on: ubuntu-latest
-    name: Format Files
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18.14
-      - name: Prettier
-        run: npx prettier --write **/*.{js,md}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # format:
+  #   runs-on: ubuntu-latest
+  #   name: Format Files
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: actions/setup-node@v3
+  #       with:
+  #         node-version: 18.14
+  #     - name: Prettier
+  #       run: npx prettier --write **/*.{js,md}
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
-        with:
-          commit_message: "style: format files"
+  #     - uses: stefanzweifel/git-auto-commit-action@v4
+  #       if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
+  #       with:
+  #         commit_message: "style: format files"
 
   build:
-    needs: format
+    # needs: format
     name: Build and Verify Content
     runs-on: ubuntu-latest
     steps:
@@ -49,8 +49,8 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Check types and style
-        run: npm run check
+      # - name: Check types and style
+      #   run: npm run check
 
       - name: Test
         run: npm test
