@@ -30,6 +30,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Format files
+        run: prettier --write .
+
       - name: Check types and style
         run: npm run check
 
