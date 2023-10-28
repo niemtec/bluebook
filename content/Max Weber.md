@@ -1,4 +1,8 @@
-tags:: #theology
+---
+tags:
+  - theology
+see also:
+---
 A German lawyer, politician, scholar, political economist and sociologist
 
 - Religion provides comfort in times of suffering (the warm bath effect)

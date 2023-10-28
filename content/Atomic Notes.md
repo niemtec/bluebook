@@ -1,10 +1,3 @@
-tags::
-see::
-comes from::
-opposite to::
-leads to::
-similar to::
-
-- Single ideas or captures of thought, they can be read and understood without the need to refer to anything else.
+- Single ideas or captures of thought, can be read and understood without the need to refer to anything else.
 - Each note should include **one idea and one idea only**. This makes it possible to link unique ideas.
 - Each note should be autonomous (self-contained and comprehensible on its own). This allows notes to be rearranged independently.

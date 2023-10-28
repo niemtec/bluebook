@@ -1,3 +1,11 @@
+---
+tags: 
+see also:
+  - "[[Shermers Last Law]]"
+  - "[[Benevolence of AI]]"
+  - "[[Grey's Law]]"
+  - "[[Three Laws of Robotics]]"
+---
 Arthur C Clarke's three laws of forecasting:
 
 1.  When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
@@ -8,5 +16,3 @@ Clarke's 2 hazards of forecasting:
 
 1.  Failure of nerve
 2.  Failure of imagination
-
-See: [[Shermers Last Law]], [[benevolence of ai]], [[greys law]], [[Three Laws of Robotics]]

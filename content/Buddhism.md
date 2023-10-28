@@ -1,5 +1,8 @@
-tags:: #religion
-
+---
+tags:
+  - religion
+see also:
+---
 - Buddhism is a path of practice and spiritual development with the aim of gaining insight into the true nature of reality — achieving enlightenment
   - An enlightened being sees the nature of reality absolutely clearly and lives fully and naturally in accordance to the vision
 - Buddhists use mediation as means of changing yourself in order to develop awareness, kindness and wisdom

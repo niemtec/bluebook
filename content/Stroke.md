@@ -1,5 +1,7 @@
-tags:: #health
-
+---
+tags:
+  - health
+---
 A condition where poor blood flow to the [[Brain]] causes cell death. There are two types of stroke (both of which cause the brain to stop functioning properly):
 
 1. Ischemic - due to lack of blood flow

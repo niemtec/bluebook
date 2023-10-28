@@ -1,3 +1,7 @@
+---
+tags:
+  - philosophy
+---
 ### Courage
 
 > [!quote]

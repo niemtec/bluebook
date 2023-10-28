@@ -1,3 +1,8 @@
+---
+tags:
+  - language/definitions
+  - philosophy
+---
 A universal [[love]] such as that for nature, strangers or fellow man. It does not depend on familiarity and encompasses the modern concept of altruism - the unselfish concern for the welfare of others.
 
 In [[philosophy]], agape refers to the paternal [[love]] of God for man and of man for God. Agape arguably draws on elements from both [[eros]] and [[Philia]] in that it seeks a perfect kind of [[love]] that is at once a fondness, a transcending of the particular, and a passion without the necessity of reciprocity.

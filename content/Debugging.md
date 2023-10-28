@@ -1,3 +1,9 @@
+---
+tags:
+  - software-development
+see also:
+  - "[[The Pragmatic Programmer]]"
+---
 - Rear Admiral Dr. Grace Hopper, the inventor of COBOL, is credited with observing the first computer bug—literally, a moth caught in a relay in an early computer system. When asked to explain why the machine wasn’t behaving as intended, a technician reported that there was “a bug in the system,” and dutifully taped it—wings and all—into the log book.
 - Debugging is a sensitive, emotional subject for many developers. Instead of attacking it as a puzzle to be solved, you may encounter denial, finger pointing, lame excuses, or just plain apathy.
 - It doesn’t really matter whether the bug is your fault or someone else’s. It is still your problem.
@@ -10,11 +16,3 @@
 
 > [!tip]
 > If you “changed only one thing’’ and the system stopped working, that one thing was likely to be responsible, directly or indirectly, no matter how farfetched it seems.
-
----
-
-tags:: #software-development
-comes from:: [[The Pragmatic Programmer]]
-opposite to::
-leads to::
-see also::

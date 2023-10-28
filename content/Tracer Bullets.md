@@ -1,3 +1,9 @@
+---
+tags:
+  - software-development
+see also:
+  - "[[The Pragmatic Programmer]]"
+---
 - When you are building something that hasn't been built before, tracer bullet development illustrates the approach where you need immediate feedback under actual conditions with a moving goal.
 - We look for something that gets us from a requirement to some aspect of the final system quickly, visibly, and repeatably.
 - Look for areas where you have doubts, and where you see the biggest risk then prioritise the development so that these are the first areas you code.
@@ -24,11 +30,3 @@
 - With a **prototype**, you are aiming to explore specific aspects of the final system. With a true prototype, you will throw away whatever you lashed together when trying out the concept and re-code it properly using the lessons you've learned
   - Tracer code approach addresses a different problem, you need to know how the application as a whole hangs together
   - You want to show users how the interactions will work in practice, and you want to give your developers an architectural skeleton on which to hang code
-
----
-
-tags:: #software-development
-comes from:: [[The Pragmatic Programmer]]
-opposite to::
-leads to::
-see also::

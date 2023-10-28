@@ -1,6 +1,8 @@
-up:: [[User Interface Design]]
-tags:: #psychology
-
+---
+tags:
+  - psychology
+see also:
+---
 Human brains work in really strange ways and despite the efforts to try and figure out exactly how the human mind works we have barely scratched the surface. A fascinating example of this is the field of [[Gestalt Psychology]]. Gestaltism is a school of thought which looks at the human mind and behaviour as a _whole_, suggesting that when we try to make sense of the world we find ourselves in, we do not focus on every tiny detail – instead our minds generalise what we experience in order to be able to process it.
 
 It originated from [M. Wertheimer](https://en.wikipedia.org/wiki/Max_Wertheimer) who became interested in looking at the totality of the mind (a big picture if you will). His guiding principle being that “_the whole was greater than the sum of its parts_”. His psychology helped to introduce the idea that human perception is not just about seeing what is actually present in the world, but instead realising that much of what we perceive is heavily influenced by our motivations, expectations and emotions.

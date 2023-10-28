@@ -1,5 +1,9 @@
-tags:: #book #software-development
-
+---
+tags:
+  - book
+  - software-development
+see also:
+---
 # Clean Code
 
 Code could never be replaced or gotten rid of because it represents the details of the requirements. At some level these details cannot be abstracted away and so must be specified — which is what programming is.

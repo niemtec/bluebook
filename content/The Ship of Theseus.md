@@ -1,5 +1,7 @@
-tag: #philosophy
-
+---
+tags:
+  - philosophy
+---
 > The ship wherein [Theseus](craftdocs://open?blockId=489D9B1A-FEAC-401F-AE3B-BC92C17F4848&spaceId=a53d78c8-df29-00d1-e1cd-5b719dfac1f8) and the youth of Athens returned had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their place, insomuch that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same.
 
 The Ship of Theseus is a thought experiment in the field of [Metaphysics of Identity](craftdocs://open?blockId=607057CD-3CA4-402A-88DE-734754729BDC&spaceId=a53d78c8-df29-00d1-e1cd-5b719dfac1f8) which asks the question of whether an object that has had all of its components replaced remains fundamentally the same object.

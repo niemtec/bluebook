@@ -1,3 +1,10 @@
+---
+tags:
+  - technology
+see also:
+  - "[[Bluetooth]]"
+  - "[[Bluetooth Address]]"
+---
 - Privacy in terms of BLE devices focuses on ensuring that untrusted parties are not able to track a device by its Bluetooth address
 - Privacy is achieved by using a resolvable private address
 
@@ -14,11 +21,3 @@
   - The bonding process involves the storage of keys by each of the devices that are bonded with each other
   - Bonding allows two devices to pair seamlessly in connection subsequent to the original connection when the two devices were paired
   - One of the keys exchanged by the two bonded BLE devices is the [[IRK]] of each device involved
-
----
-
-tags:: #technology
-comes from:: [[Bluetooth]], [[Bluetooth Address]]
-opposite to::
-leads to:: [[Bluetooth Low Energy]]
-see also::

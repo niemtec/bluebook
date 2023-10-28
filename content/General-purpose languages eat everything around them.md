@@ -7,10 +7,6 @@ Why? [[Turing Complete Language]]s are [[universal-machines]]:
 - They can replace any [[domain specific language]]
 - They transfer optionality from the platform implementation to 3rd party developers
 
----
-
-# General-purpose languages eat everything around them
-
 **Advantages** of declarative, [[domain specific language]]s (DSLs):
 
 - [[USLICE]]

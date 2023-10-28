@@ -1,5 +1,3 @@
-# Lucid Dream
-
 A lucid dream is a type of of [[dreams|dream]] in which the dreamer becomes aware of the fact that they are dreaming, this means that the dreamer might gain some degree of control over the narrative of their dream and the dream world they find themselves in
 
 Some [[psychology|psychological]] research suggests that lucid [[dreams]] can be utilised as a form of therapy.

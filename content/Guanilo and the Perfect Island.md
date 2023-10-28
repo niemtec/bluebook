@@ -1,5 +1,8 @@
-tags:: #philosophy
-
+---
+tags:
+  - philosophy
+see also:
+---
 [[Gaunilo of Marmoutiers]] refuted [[Anselm of Canterbury]]'s argument by demonstrating a reductio ad absurdum of his own that, if the logic of the argument were applied to things other than God, it led to invalid conclusions. 
 Now could it not with equal justice be said that I have in my understanding all manner of unreal objects, having absolutely no existence in themselves ([[Gaunilo of Marmoutiers]])
 
@@ -41,7 +44,6 @@ Just because you have an idea of a perfect thing, doesn't mean that the perfec
 - However, the object's non-existence is equally conceivable. Something can exist or it doesn't have to.
 
 ## Necessary Existence 
-
 - Mode of existence of that which must exist at all times.
 - An object that has to exist cannot not exist. That is illogical.
 - It is self-contradictory to think of such an object:
@@ -50,6 +52,5 @@ Just because you have an idea of a perfect thing, doesn't mean that the perfec
   - To think of it being destroyed by anything other than itself ceasing to be.
 
 ## Contingent vs Necessary 
-
 - A necessary being is infinitely superior as a mode of being that contingent existence.
 - Because God is that than which nothing greater can be conceived, God is properly defined, it thus follows that God must be conceived as having necessary existence as the divine mode of being. But, the argument concludes, what has necessary existence must necessarily exist; therefore God exists.

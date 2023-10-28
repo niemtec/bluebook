@@ -1,5 +1,7 @@
-tags:: #growth
-
+---
+tags:
+  - growth
+---
 - Complexity is a silent killer of focus, clarity, and performance. It’s easy to let complexity slowly seep in — we tend to add, but rarely subtract.
 - Examine the four environments of your life:
   1.  Physical Environment

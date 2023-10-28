@@ -1,3 +1,13 @@
+---
+tags:
+  - mythology/greek
+see also:
+  - "[[The Five Rivers of the Underworld]]"
+  - "[[Aletheia]]"
+  - "[[Mnemosyne]]"
+  - "[[Dualism]]"
+  - "[[Reincarnation]]"
+---
 - Lethe, also known as the River of Forgetfulness or Unmindfulness, flowed around the cave of [[Hypnos]] and through the underworld where all those who drank from it experienced complete forgetfulness.
 - The Classical Greek word _lethe_ literally means "oblivion", "forgetfulness", or "concealment".
 - [Ovid](https://en.wikipedia.org/wiki/Ovid) wrote that the river flowed through the cave of [[Hypnos]], god of sleep, where its murmuring would induce drowsiness.
@@ -14,11 +24,3 @@
 
 - [[Plato]]'s Republic tells of the dead arriving at a barren waste called the "plain of Lethe", through which the river Ameles ("careless") runs.
 - "Of this they were all obliged to drink a certain quantity," [[Plato]] wrote, "and those who were not saved by wisdom drank more than was necessary; and each one as he drank forgot all things."
-
----
-
-tags:: #mythology/greek
-comes from:: [[Plato]], [[The Five Rivers of the Underworld]]
-opposite to:: [[Aletheia]], [[Mnemosyne]]
-leads to::
-similar to:: [[Dualism]], [[Reincarnation]]

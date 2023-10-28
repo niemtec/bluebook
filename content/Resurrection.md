@@ -1,7 +1,8 @@
-tags:: #theology
-
-## Muslim view
-
+---
+tags:
+  - theology
+---
+## Islam
 - Al-akhirah = life after death
 - Essential for Muslims to believe - doubters are considered unbelievers
 - The number one topic in Islam is Judgement day
@@ -11,22 +12,19 @@ tags:: #theology
 - This life is a test - jihad = trying to overcome these difficulties
 
 **When will it come?**
-
 - Allah's choosing
 - Individuals shape their souls with the deeds they do
 - Allah will judge their souls at death
 - Qiyamma = Judgement day: an angel will blow his trumpet, the earth will be destroyed, people will be resurrected and called to account, and the first will be Muhammad.
 - Good faithful people go to heaven (Garden of Paradise), nonbelievers to hell
 
-## Christian view
-
+##  Christianity
 - After death, you are resurrected. This is what happened to Jesus, and they believe this is evidence that it will happen to others.
 - Jesus was resurrected on the 3rd day, was seen walking around, could be heard and his friends recognised him immediately.
 - They believe life after death will involve judgement ("Then they will go away to eternal punishment, but the righteous to eternal life" Matt 25:46).
 - The Parable of the Sheep and the Goats and The Rich Ma and Lazarus.
 
 ## Judaism
-
 - No real idea of resurrection because to have a soul meant to be animated with life - e.g. Adam
 - Prophets Elijah and Elisha raised people to life - but back to an earthly life not raised into a spiritual body.
 

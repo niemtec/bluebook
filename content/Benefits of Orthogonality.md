@@ -1,3 +1,9 @@
+---
+tags:
+  - software-development
+see also:
+  - "[[Orthogonality]]"
+---
 ### Gain Productivity
 
 It's easier to write relatively small, self-contained components than large blocks of code. Simpler components can be designed, coded, tested, and then forgotten.
@@ -26,11 +32,3 @@ A layered approach is a powerful way to design orthogonal systems because each l
 - **Keep Your Code Decoupled**: write shy code — modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations. (Try the [[Law of Demeter]]).
 - **Avoid Global Data**: every time your code references global data, it ties itself into the other components that share that data. In OOP context is often passed as parameters to objects' constructors. The [[Singleton Pattern]] is a way of ensuring that there is only one instance of an object of a particular class. (Be careful with singletons — they can also lead to unnecessary linkage)
 - **Avoid Similar Functions**: you might come across functions that look similar, duplicate code is a symptom of structural problems. (See [[Strategy Pattern]] for better implementation)
-
----
-
-tags:: #software-development
-comes from:: [[Orthogonality]]
-opposite to::
-leads to::
-see also::

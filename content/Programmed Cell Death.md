@@ -1,5 +1,7 @@
-tags: #biology
-
+---
+tags:
+  - biology
+---
 - Known as cellular suicide
 - The death of a cell as a result of the events **inside** the cell
 - It usually confers an advantage during a lifecycle (for example the differentiation of fingers and toes in a developing embryo occurs because cells between the fingers apoptose resulting in separate digits).

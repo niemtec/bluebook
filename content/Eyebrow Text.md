@@ -1,5 +1,9 @@
-tags:: #ux
-up:: [[User Interface Design]]
+---
+tags:
+  - ux
+see also: []
+---
+
 
 ![[Pasted image 20221016140804.png]]
 An [eye-tracking study](http://www.math.unipd.it/~massimo/corsi/tecweb2/Eyetrack-III.pdf) found that most users don’t read entire headlines. Instead, they scan the left side and only read the first few words. They do this because they’re searching for keywords to see if the content is worth clicking.

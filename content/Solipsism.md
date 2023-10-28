@@ -1,3 +1,7 @@
+---
+tags:
+  - philosophy
+---
 **Solipsism** /ˈsɒlɪpsɪzəm/ from [[Latin]] _solus_ 'alone', and _ipse_ 'self'.
 
 The idea that only your [[consciousness]] is real and everything else you experience only exists in your [[Mind]].

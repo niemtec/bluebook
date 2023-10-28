@@ -1,3 +1,7 @@
+---
+tags:
+  - logic
+---
 A truth table sets out all possible truth value combinations for the simple component statements and shows each value of the compont statement.
 
 ## AND

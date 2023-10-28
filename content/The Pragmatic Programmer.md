@@ -1,5 +1,9 @@
-tags:: #book-notes #programming
-
+---
+tags:
+  - book-notes
+  - software-development
+  - programming
+---
 # Chapter 1 - A Pragmatic Philosophy
 
 Being a **Pragmatic Programmer** is about adopting an attitude, a style, and a philosophy of approaching problems and their solutions. They think beyond the immediate problem, placing it in larger context. They seek out larger context useful to make intelligent compromises and informed decisions.

@@ -1,6 +1,9 @@
-tags:: #psychology
-see:: [[Sigmund Freud]]
-
+---
+tags:
+  - psychology
+see also:
+  - "[[Sigmund Freud]]"
+---
 - The father has sex with his wife to conceive the son.
 - The son is born, father is not getting any sexual attention as mother is breastfeeding son.
 - Baby develops into a child, no longer needs her breasts so father gets attention.

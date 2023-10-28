@@ -1,5 +1,7 @@
-tags:: #philosophy/philosopher
-
+---
+tags:
+  - philosophy/philosopher
+---
 German philosopher and cultural critic (1844-1900 #C19), famous for his criticisms of traditional European [[morality]], religion and conventional philosophical ideas associated with modernity.
 
 He was rejected by a number of women, didn’t get along with his family and in response to his general isolation grew a moustache and took long daily walks. For years his books didn’t sell, his mental health broke down entirely in his forties and he died later in his fifties.

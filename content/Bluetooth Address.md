@@ -1,3 +1,9 @@
+---
+tags:
+  - technology
+see also:
+  - "[[IRK]]"
+---
 - Referred to as a Bluetooth MAC address is a 48-bit value that uniquely identifies a Bluetooth device
 - There are two main types of Bluetooth addresses: public and random
   ![](https://mlv0gpv1snjt.i.optimole.com/cb:_0gS~51496/w:691/h:387/q:90/https://www.novelbits.io/wp-content/uploads/2020/04/Address-Types-1.png)
@@ -37,9 +43,3 @@
 - It's not very common but is sometimes used in beacon applications
 
 ---
-
-tags:: #technology
-comes from::
-opposite to::
-leads to:: [[MAC Address]], [[IRK]]
-see also::

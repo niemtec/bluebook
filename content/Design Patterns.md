@@ -1,3 +1,8 @@
+---
+tags:
+  - programming/design-patterns
+see also:
+---
 - Typical solutions to commonly occurring problems in software design (pre-made blueprints that can be customised to solve recurring design problems in code)
 - A high-level description of a solution and a general concept for solving a particular problem
 - You can see what the result and its features are, but the exact order of implementation is up to you
@@ -17,11 +22,3 @@
   - **Creational patterns** provide object-creation mechanisms that increase flexibility and reuse of existing code
   - **Structural patterns** explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient
   - **Behavioural patterns** take care of effective communication and the assignment of responsibilities between objects
-
----
-
-tags:: #software-development/design-patterns
-comes from::
-opposite to::
-leads to::
-see also::

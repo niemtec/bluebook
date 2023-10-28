@@ -1,6 +1,9 @@
-up: [[Typography]]
-see also: [[Eyebrow Text]]
-
+---
+tags: 
+see also:
+  - "[[Typography]]"
+  - "[[Eyebrow Text]]"
+---
 ## Typography Guidelines in Human Interfaces
 
 - With variety of device dimensions and display densities it is important to **maintain a minimum [[font]] size that most people can read easily**.

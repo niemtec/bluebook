@@ -1,3 +1,7 @@
+---
+tags: 
+see also:
+---
 [Link to tweet.](https://twitter.com/Vedanth/status/806217119050235904)
 
 - Be present above all else
@@ -17,5 +21,3 @@
 - Enlightenment is the space between your thoughts (Eckhart Tolle)
 - Mathematics is the [[Language]] of nature
 - Every moment has to be complete in and of itself
-
-See Also: [[learn to learn]], [[feynman technique]]

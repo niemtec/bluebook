@@ -1,5 +1,7 @@
-tags:: #religion
-
+---
+tags:
+  - religion
+---
 A non-theistic religious organisation that is primarily based in United States. Co-founded by Lucien Greaves, the organisation uses Satanic imagery to promote [[egalitarianism]], social justice, and the separation of the church and state.
 
 It's mission: "to encourage benevolence and empathy [among all people]"

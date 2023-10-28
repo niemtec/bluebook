@@ -20,5 +20,3 @@ Production **engineering** is typically a process of **making choices** for impl
 ---
 
 It's essential to know which stage of the process you're in, and whether to use a generative or a critical process. If you winnow before you sow, you'll have nothing to show.
-
-Also: [[capture organise synthesize]]

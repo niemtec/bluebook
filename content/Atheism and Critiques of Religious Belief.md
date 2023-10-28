@@ -1,5 +1,7 @@
-tags:: #theology
-
+---
+tags:
+  - theology
+---
 > "Of all choices, atheism requires the greatest faith, as it demands that one's limited store of human knowledge is sufficient to exclude the possibility of God" (Francis Collins of the Human Genome Project)
 
 - Many critiques of religious belief draw the conclusion that, independently of God's existence, religion creates social and hierarchical structures which have a powerful effect on the lives of individuals and communities.

@@ -1,4 +1,11 @@
-Wakefulness and [[Sleep]] are under the control of the [[circadian rhythm]] and not the other way around.
+---
+tags:
+  - biology
+  - book
+see also:
+  - "[[Sleep]]"
+---
+Wakefulness and [[Sleep]] are under the control of the [[Circadian Rhythm]] and not the other way around.
 
 Humans are not sleeping the way nature intended. The number of [[Sleep]] bouts, the duration of [[Sleep]], and when [[Sleep]] occurs have all been comprehensively distorted by modernity.
 

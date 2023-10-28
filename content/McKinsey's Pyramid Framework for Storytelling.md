@@ -1,3 +1,7 @@
+---
+tags: 
+see also:
+---
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81864a43-8f70-4150-ad0b-cbb3a7c75db3_1204x598.png)
 
 - A tool used to process and structure large amounts of information to convey a story, message or presentation without omitting important details.
@@ -23,8 +27,3 @@ First, we set the stage with the introduction, starting with the governing thoug
 2. **Complication**: the problem, relevancy, sense of urgency to listen or act
 3. **Question**: the question that naturally arises following the complication — a start of question-and-answer flow
 4. **Answer**: your main idea
-
----
-
-theme:: #storytelling
-see also::

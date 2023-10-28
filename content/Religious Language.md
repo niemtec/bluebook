@@ -1,5 +1,7 @@
-tags:: #theology
-
+---
+tags:
+  - theology
+---
 The problem is one of meaning. If we are to believe in God or some aspect of religion, we can only do this if we can use language to talk about it in a meaningful way. If talk of God is nonsense then the idea of God is nonsense.
 
 The debate is ages-old. The religious have always claimed that the divine is difficult to express in terms of limited human language. In the Old Testament, the prophet Isaiah found himself in God's presence and said, "woe is me, a man of unclean lips!". This connects with the idea that God is transcendent - beyond us. Yet, the opposite point has also long been recognised: if God cannot be described then there may be a little scope for belief.

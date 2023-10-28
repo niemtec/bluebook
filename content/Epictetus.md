@@ -1,2 +1,0 @@
-[[Enchiridion]]
-[[Discourses]]

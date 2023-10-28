@@ -1,3 +1,9 @@
+---
+tags:
+  - metaphysics
+see also:
+  - "[[Dualism]]"
+---
 ## In Hinduism
 
 - Strong belief in reincarnation where the destiny of the soul continues in a series of transmigrations.
@@ -7,11 +13,3 @@
 
 - The nature of the new body is determined by the law of Karma.
 - Reincarnation supports the idea of a disembodied self, that survival after death is possible without the body.
-
----
-
-tags:: #metaphysics
-comes from:: [[Dualism]], [[Hinduism]]
-opposite to::
-leads to::
-similar to:: [[Karma]]

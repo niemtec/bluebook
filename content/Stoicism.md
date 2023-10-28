@@ -1,3 +1,7 @@
+---
+tags:
+  - philosophy
+---
 A school of [[philosophy]] founded by [[Zeno of Citium]] of Citium focussed on personal [[eudaemonic virtue ethics]] informed by its system of [[Logic]] and views on natural world. The stoics identified the path to [[eudaimonia]] with a life spent practicing the [[cardinal virtues]] and living in accordance with nature.
 
 Stoicism teaches that we can’t control or rely on anything outside what [[Epictetus]] called our “reasoned choice”—our ability to use our reason to choose how we categorise, respond, and reorient ourselves to external events.

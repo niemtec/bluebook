@@ -1,3 +1,7 @@
+---
+tags:
+  - logic
+---
 A branch of [[Logic]] which studies the ways of joining and/or modifying entire propositions, statements or sentences in order to form more complex propositions, statements or sentences.
 
 It also deals with the logical relationships and properties that are derived by combining or altering the statements.

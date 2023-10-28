@@ -1,3 +1,10 @@
+---
+tags:
+  - mythology
+see also:
+  - "[[Charon's obol]]"
+  - "[[Styx]]"
+---
 - A form of respect for the dead or bereavement
 - The practice began in classical antiquity when people believed that the dead needed coins to pay a ferryman to cross the river Styx, in modern times the practice is still observed in the USA and Canada where visitors leave coins on the gravestones of former military personnel
 
@@ -16,11 +23,3 @@
     - A nickel means the visitor went to boot camp with the decedent
     - A dime means the visitor served with the deceased
     - Quarter means the visitor was present when the decedent was killed
-
----
-
-tags:: #mythology
-comes from:: [[Charon's obol]]
-opposite to::
-leads to:: [[Charon's obol]]
-see also:: [[Styx]]

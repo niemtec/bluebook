@@ -1,5 +1,11 @@
-see:: [[Libido]], [[Id]], [[Ego]], [[Oedipus Complex]]
-
+---
+tags: 
+see also:
+  - "[[Libido]]"
+  - "[[Id]]"
+  - "[[Ego]]"
+  - "[[Oedipus Complex]]"
+---
 ## Views on Religion
 
 Freud had a very negative view towards belief in God and religion.

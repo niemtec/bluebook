@@ -24,7 +24,7 @@ With thousands of pilgrims visiting the holy city of Mecca each year from all ov
 
 > “Bitter invention of Satan”
 
-By #C17 coffee made its way to Europe and became popular across the continent. Some people reacted to this new beverage with suspicion or [[fear]] calling it “bitter invention of Satan”. See also [[five attempts to ban coffee]].
+By #C17 coffee made its way to Europe and became popular across the continent. Some people reacted to this new beverage with suspicion or [[fear]] calling it “bitter invention of Satan”. See also [[Five Attempts to Ban Coffee]].
 
 The controversy was so great that Pope Clement VIII was asked to intervene. He decided to taste the beverage for himself before making a decision, and found the drink so satisfying that he gave it papal approval.
 
@@ -49,6 +49,4 @@ Once planted, the seedling not only thrived, but it’s credited with the spread
 
 The famed Brazilian coffee owes its existence to Francisco de Mello Palheta, who was sent by the emperor to French Guiana to get coffee seedlings. The French were not willing to share, but the French Governor's wife, captivated by his good looks, gave him a large bouquet of flowers before he left— buried inside were enough coffee seeds to begin what is today a billion-dollar industry.
 
-Missionaries and travellers, traders and colonists continued to carry coffee seeds to new lands, and coffee trees were planted worldwide. Plantations were established in magnificent tropical forests and on rugged mountain highlands. Some crops flourished, while others were short-lived. New nations were established on coffee economies. Fortunes were made and lost. By the end of the #C18, coffee had become one of the world's most profitable export crops. After crude oil, coffee is the most sought commodity in the world.
-
-#timeline
+Missionaries and travellers, traders and colonists continued to carry coffee seeds to new lands, and coffee trees were planted worldwide. Plantations were established in magnificent tropical forests and on rugged mountain highlands. Some crops flourished, while others were short-lived. New nations were established on coffee economies. Fortunes were made and lost. By the end of the #C18, coffee had become one of the world's most profitable export crops. After crude oil, coffee is the most sought-after commodity in the world.

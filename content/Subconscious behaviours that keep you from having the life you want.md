@@ -2,8 +2,7 @@
 see also:
   - "[[101 Essays That Will Change the Way You Think]]"
 ---
-
-- The fundamentals of any given monoculture tend to surround what we should be living for — nation, religion, self, etc.
+-  The fundamentals of any given monoculture tend to surround what we should be living for — nation, religion, self, etc.
 - There are a number of ways in which our current system has us shooting ourselves in the foot as we try to step forward:
   1.  **You believe that creating your best life is a matter of deciding what you want and going after it.**
       - In reality, you are psychologically incapable of being able to predict what will make you happy.

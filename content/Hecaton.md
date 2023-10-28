@@ -1,3 +1,6 @@
-tags:: #language/definitions
-
+---
+tags:
+  - language/definitions
+see also:
+---
 Hundred

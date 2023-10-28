@@ -1,3 +1,13 @@
+---
+tags:
+  - psychology
+see also:
+  - "[[Sigmund Freud]]"
+  - "[[Super-Ego]]"
+  - "[[Ego]]"
+  - "[[Pleasure Principle]]"
+  - "[[Libido]]"
+---
 - The unconscious instinctual component of personality that is present at birth
 - The source of bodily needs and wants, emotional impulses and desires, especially aggression and sex drive
 - It acts according to the pleasure principle
@@ -6,15 +16,6 @@
 - Freud described it as "the greatest reservoir of libido", usually conceived as sexual in nature, the life instincts that are constantly seeking a renewal of life
 
 ---
-
-tags:: #psychology
-comes from:: [[Sigmund Freud]]
-opposite to:: [[Super-Ego]], [[Ego]]
-leads to:: [[Pleasure Principle]]. [[Libido]]
-similar to::
-
-tags:: #psychology
-see:: [[Sigmund Freud]]
 
 - The seat of the unconscious mind controls the basic biological impulses.
 - Breathing and Hunger

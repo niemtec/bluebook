@@ -1,3 +1,13 @@
+---
+tags:
+  - psychology
+see also:
+  - "[[Hyperfocus]]"
+  - "[[dopamine]]"
+  - "[[Rejection Sensitivity]]"
+  - "[[Emotional Dysregulation]]"
+  - "[[Neurodivergece]]"
+---
 - A mental disorder which includes a combination of persistent problems such as difficulties paying attention, hyperactivity and impulsive behaviour.
 - This can lead to unstable relationships, poor school/work performance, low self-esteem, and other problems in adulthood. In some cases, it can go unnoticed until adulthood when the symptoms might not be as clear as in children.
 - Adults often have **decreased** hyperactivity but still struggle with impulsiveness, and restlessness, and have difficulty with attention
@@ -33,11 +43,3 @@ Diagnosis of ADHD in adults can be difficult because certain ADHD symptoms ar
   - **Anxiety disorders.** [[Anxiety]] disorders occur fairly often in adults with ADHD. Anxiety disorders may cause overwhelming worry, nervousness and other symptoms. [[Anxiety]] can be made worse by the challenges and setbacks caused by ADHD.
   - **Other psychiatric disorders.** Adults with ADHD are at increased risk of other psychiatric disorders, such as personality disorders, intermittent explosive disorder and substance use disorders.
   - **Learning disabilities.** Adults with ADHD may score lower on academic testing than would be expected for their age, intelligence and education. Learning disabilities can include problems with understanding and communicating.
-
----
-
-tags:: #psychology
-comes from:: [[Neurodivergece]]
-opposite to:: [[Neurotypical]]
-leads to:: [[Hyperfocus]], [[dopamine]], [[Rejection Sensitivity]], [[Rejection Sensitive Dysphoria]], [[Emotional Dysregulation]]
-see also::

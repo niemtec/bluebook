@@ -1,28 +1,28 @@
-tags:: #philosophy, #theology
+---
+tags:
+  - philosophy
+  - theology
+---
 Despite many attacks from [[Thomas Aquinas]], [[David Hume]], [[Immanuel Kant]] and [[Bertrand Russell]], the ontological argument has continued to be popular and to present a strong case for providing grounds for providing the existence of God by use of reason alone. 
 The argument fundamentally rests on the premise that there is a universe, but its existence is contingent (depending on something else to exist). Whatever provides the explanation for the universe's existence cannot be contingent itself, but is necessary. 
 It argues deductively, not inductively thus holding out the hope of a universal proof not dependent on empirical evidence about which we may be mistaken.
 
 ## The form of the argument
-
 The ontological argument is [[A Priori]] (concerned with being). It does not rely on the senses or the world around us for either its premises or conclusion. Instead, it moves in stages of logical argument to a conclusion which is self-evidently true or logically necessary.
 
 The argument is analytic which means that as long as its premises are correct so is the conclusion, hence the argument reaches conclusions about the existence of God that are based on the definition of God used in the premises.
 
 ## Origins
-
 [[Anselm of Canterbury]] prayed for a single, short argument which would prove almost everything about God, including his nature and existence. For [[Anselm of Canterbury]] the existence of God held by him by the virtue of faith, was now also true by logical necessity, relying only on the analysis and meaning of the terms.  
 [[Anselm of Canterbury]] was trying to prove the existence of God by means of reductio ad absurdum - this method of reasoning aims to demonstrate the truth of something by reducing to absurdity the very opposite of what you are aiming to prove. 
 In [[Anselm of Canterbury]]'s case, the opposite of his conclusion would be that God does not exist, which he aimed to show to be absurd by means of an argument demonstrating that the existence of God is logically necessary.
 
 ## Context
-
 1.  The definition of God as 'that than which nothing greater can be conceived' and the implications of this.
 2.  Why the non-existence of God is logically impossible.
 3.  Why 'the fool' believes that which is impossible to be true.
 
 ## Defining God
-
 [[Anselm of Canterbury]]'s argument is based on the very definition of the word God and its meaning. He makes an assumption which is crucial for the argument to work, which is that 'God' is effectively shorthand for 'that than which nothing greater can be conceived' or 'the being than which nothing greater can be thought'.
 
 God is greater than all other beings in the sense that he is supremely perfect - it must possess all perfections in order to be so described and when we speak of God we speak of such perfect being.

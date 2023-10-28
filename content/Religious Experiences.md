@@ -1,5 +1,7 @@
-tags:: #theology
-
+---
+tags:
+  - theology
+---
 It is an encounter with the divine. It is a non-empirical occurrence that brings with it awareness of something beyond ourselves. A direct experience where the person having the experience feels that he or she is in contact with God.
 
 [[Caroline Franks Davis]] defines seven types of religious experience:

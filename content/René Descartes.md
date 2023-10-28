@@ -1,4 +1,7 @@
-tags:: #philosophy/philosopher
+---
+tags:
+  - philosophy/philosopher
+---
 17th century French Christian philosopher and theologian. Agrees roughly with [[Anselm of Canterbury]], says existence is a [[Predicate]] of the Perfect Being.
 
 ## Descartes' argument for the existence of God
