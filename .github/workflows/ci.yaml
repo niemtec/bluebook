@@ -1,4 +1,4 @@
-name: Deploy notes to GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 permissions:
   contents: write
@@ -19,7 +19,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: "true"
-          # token: ${{ secrets.API_TOKEN_GITHUB }}
           ref: ${{ github.head_ref }}
           fetch-depth: 0
       - uses: actions/setup-node@v3
